@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9414dc3-e7a8-45e6-847b-06717415c061" name="Changes" comment="Mathematical table of number 10.">
-      <change afterPath="$PROJECT_DIR$/src/ex_13092024/Lab020_Task1_NumberTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13092024/Mathematical_Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13092024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab018.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +56,14 @@
   "keyToString": {
     "Application.Lab020.executor": "Run",
     "Application.Lab020_Task1_NumberTable.executor": "Run",
+    "Application.Mathematical_Calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab020_Task1_NumberTable">
+  <component name="RunManager" selected="Application.Mathematical_Calculator">
     <configuration name="Lab018" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab018" />
       <module name="ATB8xJava_Programs" />
@@ -97,8 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mathematical_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13092024.Mathematical_Calculator" />
+      <module name="ATB8xJava_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mathematical_Calculator" />
         <item itemvalue="Application.Lab020_Task1_NumberTable" />
         <item itemvalue="Application.Lab020" />
       </list>
@@ -135,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726315395509</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mathematical table of number 10.">
+      <option name="closed" value="true" />
+      <created>1726409994305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726409994305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
