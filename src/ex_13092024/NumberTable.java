@@ -1,6 +1,6 @@
 package ex_13092024;
 
-public class Lab020_Task1_NumberTable {
+public class NumberTable {
     public static void main(String[] args) {
         int num =10;
         System.out.println("The mathematical table of number 10");
